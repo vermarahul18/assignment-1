@@ -1,0 +1,22 @@
+a {
+    color:red ;
+    text-decoration:none;
+  }
+
+  h1 {
+    font-family:Verdana;
+    margin-left:25px;
+  }
+
+  img {
+    border-radius: 10px;
+    margin-left:200px;
+    
+  }
+
+  div {
+    margin-left:150px;
+    background-color:darkgreen;
+    width:500px;
+    color:whitesmoke;
+  }
